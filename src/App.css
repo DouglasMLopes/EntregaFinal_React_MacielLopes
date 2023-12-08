@@ -1,0 +1,161 @@
+.App {
+  text-align: center;
+}
+
+.loadingTitle,
+.cartDiv {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.logo{
+ max-width: 150px;
+ transition: 0.5s;
+}
+
+.viewProduct,
+.itemCountAdd,
+.swal2-confirm,
+.backButton {
+  background-color: #212529 !important;
+  border-color: #32363b !important;
+  transition: 0.5s;
+}
+
+.viewProduct:hover,
+.itemCountAdd:hover,
+.swal2-confirm:hover,
+.backButton:hover {
+  background-color: #3c4044 !important;
+  border-color: #575c63 !important;
+}
+
+.swal2-icon-success {
+  background-color: #575c63 !important;
+  color: white;
+}
+
+.swal2-icon-error {
+  background-color: #575c63 !important;
+  color: white;
+}
+
+.backButton {
+  padding-left: 100px !important;
+  padding-right: 100px !important;
+  margin-top: 20px;
+}
+
+.nav-link-title {
+  color: rgb(187, 187, 187) !important;
+  transition: 0.5s;
+  font-size: 17px;
+  text-decoration: none;
+  margin-bottom: 2px;
+  margin-right: 10px;
+  font-style: italic;
+}
+
+.itemCountAdd {
+  margin-left: 20px;
+}
+
+.nav-link-title:hover {
+  color: rgb(255, 255, 255) !important;
+}
+
+.bi {
+  color: rgb(187, 187, 187);
+  width: 27px;
+  height: 27px;
+  margin-top: 5px;
+  margin-left: 490px;
+  transition: 0.5s;
+}
+
+.bi:hover {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.navCartCount {
+  color: rgb(187, 187, 187);
+  font-size: 25px;
+  max-height: 25px;
+  transition: 0.5s;
+  margin-left: 4px;
+}
+
+.navCartCount:hover {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.itemCountPanel {
+  font-size: 20px;
+}
+
+.itemCountPanel button {
+  border: 0px;
+  background-color: #212529;
+  border-color: #32363b;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  transition: 0.5s;
+}
+
+.itemCountPanel button:hover {
+  background-color: #3c4044;
+  border-color: #575c63;
+}
+
+.itemCountNumber {
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.itemListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.productDiv {
+  margin: 10px;
+}
+
+.productDiv img {
+  max-height: 286px;
+  height: 286px;
+}
+
+.itemDetailContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.itemDetailContainer img {
+  max-height: 286px;
+  height: 286px;
+  max-width: 286px;
+}
+
+.itemDetail {
+  margin-left: 300px;
+  margin-top: 10px;
+}
+
+.itemDelete,
+.makeOrderButton {
+  background-color: #212529 !important;
+  border-color: #32363b !important;
+  transition: 0.5s;
+}
+
+.itemDelete:hover,
+.makeOrderButton:hover {
+  background-color: #3c4044 !important;
+  border-color: #575c63 !important;
+}
