@@ -1,6 +1,6 @@
-# Proyecto FINAL de React JS. Coderhouse (Comisión 47150)
+# Proyecto FINAL de React JS. Coderhouse (Comisión 58390)
 
-[Proyecto FINAL de React JS](https://github.com/Joaquin1986/ProyectoFinalKulik) para Coderhouse / Comisión 47150. 
+[Proyecto FINAL de React JS] para Coderhouse / Comisión 58390. 
 
 ## Descripción de la App
 
